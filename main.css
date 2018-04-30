@@ -10,14 +10,14 @@ section {
     width: 495px;
 }
 
-#header, #nav, #full, #aside, #footer {
+#header, #nav, #section, #aside, #footer {
     padding: 20px 0;
     background: #ebebeb;
     margin: 0 100px 15px;
     text-align: center;
 }
 
-#full{
+#section{
     float: left;
     height: 200px;
     width: 340px;
@@ -28,7 +28,7 @@ section {
 #aside {
     float: left;
     height: 200px;
-    width: 200px;
+    width: 135px;
     margin-left: 0;
 }
 
